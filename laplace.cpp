@@ -3,12 +3,16 @@
 #include "word.H"
 #include "string.H"
 
-
 int main(int argc, char *argv[])
 {   
-   #include"setRootCaseLists.H"
+   #include "setRootCaseLists.H"
 
-   std::cout<<"hello vim & gcc"<<std::endl;
-   return 0;
+
+
+   std::cout << "Hello vim & gcc." << std::endl;
+
+   std::cout << "Hello GitHub." << std::endl;
+   
+	return 0;
 
 }
